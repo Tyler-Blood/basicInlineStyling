@@ -1,0 +1,35 @@
+Question for the learning objective "understand what a basic inline style is in Cascading Style Sheets"
+
+When css is used inside an html element using the style attribute it is called:
+(Ex. <h1 style="color: red;">Header</h1>)
+
+  !- Inline style
+    Inline CSS allows you to apply a unique style to one HTML element at a time. You assign CSS to a specific HTML tag by using the style attribute with any CSS properties defined within it.
+    https://www.bitdegree.org/learn/inline-css
+  External style
+	   This is the more desirable method, especially on bigger projects. However, it is done through a different file, not in the html itself.
+	  https://www.quackit.com/css/external_style_sheets.cfm
+  Inline citation
+	   Inline citation is used in writing academic papers. Web development uses inline styling.
+     https://www.w3schools.com/html/html_css.asp
+  Lazy
+		In general, it is not considered a best practice. However, there are times when inline styles are the right (or only) choice.
+		https://www.codecademy.com/articles/html-inline-styles
+
+
+Question for the learning objective "understand when to use inline styles and when not to use inline styles"
+
+Why do most professional dev teams prefer styles in an external stylesheet rather than internal or inline?
+
+  It’s cacheable
+    Almost. External stylesheets are cached, and aren’t reloaded every time you visit a page, we don’t have to update 1000’s of pages’ styles to change a button, an author doesn’t have to go fiddling with the web application to change a button.
+    https://www.bitdegree.org/learn/inline-css
+  It’s distributed
+    Almost. External stylesheets are cached, and aren’t reloaded every time you visit a page, we don’t have to update 1000’s of pages’ styles to change a button, an author doesn’t have to go fiddling with the web application to change a button.
+    https://www.bitdegree.org/learn/inline-css
+  It separates concerns
+	  Almost. External stylesheets are cached, and aren’t reloaded every time you visit a page, we don’t have to update 1000’s of pages’ styles to change a button, an author doesn’t have to go fiddling with the web application to change a button.
+    https://www.bitdegree.org/learn/inline-css
+  !- All of the above
+	  Correct! External stylesheets are cached, and aren’t reloaded every time you visit a page, we don’t have to update 1000’s of pages’ styles to change a button, an author doesn’t have to go fiddling with the web application to change a button.
+	  https://www.bitdegree.org/learn/inline-css
